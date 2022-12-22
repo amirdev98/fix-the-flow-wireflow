@@ -1,4 +1,5 @@
-De user story
+De user story:
+
 Als developer van een vervoerder wil ik een soort interactieve checklist kunnen bijhouden over de wettelijke toegankelijkheidsrichtlijnen voor mijn eigen website#17
 
 
